@@ -1,0 +1,6 @@
+# Ignore input files:
+input
+# VS Code settings stuff:
+.vscode/*
+# Cache:
+*/__pycache__/*
