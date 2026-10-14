@@ -4,3 +4,6 @@ input
 .vscode/*
 # Cache:
 */__pycache__/*
+
+
+dump*
